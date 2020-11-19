@@ -1,3 +1,16 @@
+Game Night!
+
+The Virtual Pub is opening back up, this time for a virtual game night. Grab your fantastic bev and sharpen your mouse to draw and guess things like: Lady Gaga, the Eiffel Tower, butter, and more. 
+
+We’re going to use gather.town, a really cool tool for proximity video chat in fully customizable, 2D interactive spaces and http://skribbl.io/. 
+
+Time: November, 21, 4 PM ET
+RSVP capped at 12
+
+
+---
+
+
 Hi everyone! We're going to be hosting another TWO events on Thursday as we continue our beta mode. The first meetup was a lot of fun and it was great to meet new people from Launch School in a more social format.
 From the feedback we gathered, having 10 attendees seemed like too many people, so we'll be limiting each event to 8 attendees this week to see if that's a more comfortable number.
 We are adding a 'ground rule' and some more structure:
@@ -8,7 +21,7 @@ Thursday, Nov 5, 1 PM - 2 PM ET (Hosted by Leena) - Topic is "Mindful Study Prac
 To RSVP, please respond to the appropriate thread below this message. We'll have a waitlist for both events. Please let us know 1 day ahead of time if you need to cancel your RSVP so we can fill the spot from the waitlist!
 
 
-
+---
 
 🥳 Want to meet your fellow students in a social & casual setting ? 
 Join our channel, #the_social_network, and RSVP to our upcoming meetups on November 5th. (Details below)
