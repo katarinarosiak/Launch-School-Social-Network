@@ -2,7 +2,7 @@
 
 # Code of Conduct
 
-In all cases, please abide by the Launch School code of conduct. 
+In all cases, please abide by the Launch School [code of conduct](https://launchschool.com/code_of_conduct). 
 
 ## Introduction
 
