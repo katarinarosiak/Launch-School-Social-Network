@@ -1,5 +1,7 @@
 > These are borrowed from Docker for now ;) 
 
+# Code of Conduct
+
 In all cases, please abide by the Launch School code of conduct. 
 
 ## Introduction
@@ -31,3 +33,5 @@ Harassment may include but not limited to the following:
 - Inappropriate or unwanted physical contact
 - Intimidation or bullying (online or in-person)
 - Unwelcome sexual attention
+
+# Mission Statement
