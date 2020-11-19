@@ -35,3 +35,4 @@ Harassment may include but not limited to the following:
 - Unwelcome sexual attention
 
 # Mission Statement
+Connect with Launch School students globally via online social meetups.
