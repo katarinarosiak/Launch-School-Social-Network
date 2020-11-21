@@ -1,38 +1,39 @@
-> These are borrowed from Docker for now ;) 
 
-# Code of Conduct
+# Mission Statement
+Connect with Launch School students globally via online social meetups.
 
-In all cases, please abide by the Launch School [code of conduct](https://launchschool.com/code_of_conduct). 
+## Introduction to #the_social_network
+Curious to get to know other Launch School students, without the code? We are all studying and working together, let's also have fun together!
 
-## Introduction
+We started these social meetups to make it easy to meet fellow students in a relaxed, social, (and physically distant) setting, and everyone is welcome to join and contribute. 
 
-We are dedicated to providing a harassment­ free experience for everyone, and we do not tolerate harassment of participants in any form. We ask you to be considerate of others and behave professionally and respectfully to all other participants. This code and related procedures also apply to unacceptable behavior occurring outside the scope of community activities, in all community venues— online and in-person— as well as in all one-on-one communications, and anywhere such behavior has the potential to adversely affect the safety and well-being of community members. Exhibitors, speakers, sponsors, staff and all other attendees at events organized by Docker, Inc (DockerCon, meetups, user groups) or held at Docker, Inc facilities are subject to these Community Guidelines and Code of Conduct.
+Let us know if you want to get involved with leading a session or have ideas for social meetups. Standard [LS Code of Conduct](https://launchschool.com/code_of_conduct) and [Community Guidelines](https://launchschool.com/community_guidelines) apply for all meetups and are very important towards making these fun and safe for all! 
 
-Diversity and inclusion make the Docker community strong. We encourage participation from the most varied and diverse backgrounds possible and want to be very clear about where we stand.
+## Highlights from Code of Conduct and Community Guidelines
+- In general, you should aim to be polite and professional in your interactions.
+- Treat staff and other students as you would do colleagues in the workplace.
+- Please refrain from politics or religion and other topics that may be sensitive.
+- Have fun but keep in mind that Launch School serves students of all backgrounds from around the world.
 
-Our goal is to maintain a safe, helpful and friendly Docker community for everyone, regardless of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other protected categories under applicable law.
+## Unacceptable behavior include but are not limited to:
+- The use of sexualized language, imagery, or unwelcomed sexual attention
+- Insulting comments, or personal attacks
+- Public or private harassment
+- Releasing other student's or TA's private information, such as an address or phone number, without permission
+- Any other conduct that would be considered inappropriate for a professional setting
+- Soliciting or selling of services, products, goods
+- Recruiting for companies or other training programs
+- Disrespect towards differences of opinion
+- Deliberate intimidation, stalking, harassing photography or recording
+- Sustained disruption of talks or other events
+- Intimidation or bullying (online or in-person)
 
-## Expected Behavior
+In all cases, please abide by the Launch School [code of conduct](https://launchschool.com/code_of_conduct) and [community guidelines](https://launchschool.com/community_guidelines). All infractions to be reported to [support@launchschool.com](mailto:support@launchschool.com).
 
+## Expected Behavior 
 - Be professional.
 - Be responsible.
 - Be welcoming.
 - Be kind.
 - Be respectful of other viewpoints and ideas.
 - Be supportive and look out for each other.
-
-## Unacceptable Behavior
-
-Harassment may include but not limited to the following:
-
-- Offensive, inappropriate, or unwanted comments related to gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, national origin, religion, or age, or other protected categories under applicable law.
-- Visual harassment eg. sexual imagery or use of sexual language at Docker community events
-- Disrespect towards differences of opinion
-- Deliberate intimidation, stalking, harassing photography or recording
-- Sustained disruption of talks or other events
-- Inappropriate or unwanted physical contact
-- Intimidation or bullying (online or in-person)
-- Unwelcome sexual attention
-
-# Mission Statement
-Connect with Launch School students globally via online social meetups.
