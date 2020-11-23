@@ -23,10 +23,10 @@ Some ideas include:
 - Where? Will you use Zoom, Meet or something else ? Inform participants of tech requirements ahead of time. 
 - People. Do you want to give priority to new students or first come first served ? 
 
-### Fouth, publicize:
+### Fourth, publicize:
 - On #the_social_network at the very least. 
 - Other places of interest include: #general, #student_lounge, #the-spot, the forum 
 
-### Fith, track sign ups and student questions, remind participants of the meetup details, and host! 
+### Fifth, track sign ups and student questions, remind participants of the meetup details, and host! 
 - One thing we've noticed that works well is having all the confirmed participants in a Slack Message or a Slack Channel. 
 
