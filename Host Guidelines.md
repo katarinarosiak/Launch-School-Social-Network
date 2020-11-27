@@ -7,6 +7,7 @@
 # Interested in hosting an event ? 
 ### First thing first, make sure you read, understand and accept the [Guidelines & Mission](https://github.com/LizFedak/Launch-School-Social-Network/blob/main/Community%20Guidelines%20+%20Mission.md). 
 This is mandatory and the only rules you have to follow. You will be hosting on Launch School ground after all and you need to know what is accepted and what's not.
+Please message one of the [moderators](https://github.com/LizFedak/Launch-School-Social-Network/blob/main/Contact%20List.md) and inform them of your intent. They will facilitate your onboarding and provide you with feedback.
 
 ### Second, determine the goal of the event you'd like to host. 
 Some ideas include: 
