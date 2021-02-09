@@ -5,7 +5,7 @@
   - Note that there are time limits (as of this writing) for free accounts, and functional restrictions
 - [Google Meets](https://meet.google.com/)
   - Google Meets [info and resources](https://support.google.com/meet/?hl=en#topic=7306097)
-- [gather.town](gather.town)
+- [gather.town](https://gather.town/)
   - fun 16-bit retro style video meeting space with a ton of cool customization options
   - our current(?) [Virtual Pub](https://gather.town/app/lr5VRqAq8OmPmvfk/virtual-pub) demo gather space
 
